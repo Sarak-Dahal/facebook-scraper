@@ -6,7 +6,7 @@ A Python script to scrape posts from Facebook using the `facebook-scraper` libra
 
 - Scrape posts from Facebook.
 - Filter posts by author, date, and keywords.
-- Download images and videos from posts.
+- Download images and videos from posts (also will store it as a link to csv).
 - Save scraped data to a CSV file.
 
 ## Installation
